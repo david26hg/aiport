@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\Proyectos C#\\AirportV1\\AirportV1\\AirportV1.csproj": {}
+    "D:\\Documentos\\Repositorio Proyectos\\Airport\\AirportV1\\AirportV1.csproj": {}
   },
   "projects": {
-    "J:\\Proyectos C#\\AirportV1\\AirportV1\\AirportV1.csproj": {
+    "D:\\Documentos\\Repositorio Proyectos\\Airport\\AirportV1\\AirportV1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\Proyectos C#\\AirportV1\\AirportV1\\AirportV1.csproj",
+        "projectUniqueName": "D:\\Documentos\\Repositorio Proyectos\\Airport\\AirportV1\\AirportV1.csproj",
         "projectName": "AirportV1",
-        "projectPath": "J:\\Proyectos C#\\AirportV1\\AirportV1\\AirportV1.csproj",
+        "projectPath": "D:\\Documentos\\Repositorio Proyectos\\Airport\\AirportV1\\AirportV1.csproj",
         "packagesPath": "C:\\Users\\deivi\\.nuget\\packages\\",
-        "outputPath": "J:\\Proyectos C#\\AirportV1\\AirportV1\\obj\\",
+        "outputPath": "D:\\Documentos\\Repositorio Proyectos\\Airport\\AirportV1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "J:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
